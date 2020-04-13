@@ -17,3 +17,6 @@
 ### 开发者
 
 冉俊（ranjunx@qq.com）
+
+### 在线地址
+https://nuxt-build-5i2i3pf8q.now.sh/
